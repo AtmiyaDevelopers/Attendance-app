@@ -25,4 +25,17 @@
         <item>Semester_7</item>
         <item>Semester_8</item>
     </string-array>
+    <string name="title_activity_signup_activity">Signup_activity</string>
+    <string name="title_activity_choice_activity">Choice_activity</string>
+
+    <string name="register">register</string>
+    <string name="takeAttendance">Take Attendance</string>
+
+    <string name="signupName">Name</string>
+    <string name="signupEmail">Email</string>
+    <string name="signupPassword">New Password</string>
+    <string name="signupConfirmPassword">Confrim Password</string>
+    <string name="signupQuit">Quit</string>
+    <string name="signupSubmit">Submit</string>
+
 </resources>
